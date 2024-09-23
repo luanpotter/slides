@@ -6,7 +6,7 @@ Checkout [Defend the Donut](https://github.com/flame-engine/defend_the_donut/) a
 
 This is a simple showcase of Collect the Donut:
 
-https://github.com/luanpotter/slides/master/collect-the-donut.mp4
+https://github.com/luanpotter/slides/raw/refs/heads/master/%5B2024%5D%20Flame%20&%20(real)%203D%20%5BFlutter%20&%20Friends,%20Fluttercon%20NYC%5D/collect-the-donut.mp4
 
 ## Slides
 
