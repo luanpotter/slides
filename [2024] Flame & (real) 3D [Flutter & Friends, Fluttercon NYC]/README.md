@@ -2,7 +2,7 @@
 
 This is a follow-up to my previous talk "Flame & (pseudo) 3D" in which we explore how to use the new Flutter GPU package to leverage the "real" GPU-powered 3d-world rendering within Flame.
 
-Checkout [Defend the Donut](https://github.com/flame-engine/defend_the_donut/) and [Collect the Donut](github.com/luanpotter/collect_the_donut), the sample games I built to showcase the concepts in the talk. They can serve as a base for starting off your 3D journey.
+Checkout [Defend the Donut](https://github.com/flame-engine/defend_the_donut/) and [Collect the Donut](https://github.com/luanpotter/collect_the_donut), the sample games I built to showcase the concepts in the talk. They can serve as a base for starting off your 3D journey.
 
 This is a simple showcase of Collect the Donut:
 
